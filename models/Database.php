@@ -1,5 +1,5 @@
 <?php
-include "./Models/Todo.php";
+include 'Todo.php';
 class Database
 {
     protected $pdo;

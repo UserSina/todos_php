@@ -1,5 +1,5 @@
 <?php
-include "./Database.php";
+include "../models/Database.php";
 header("Content-Type: application/json; charset=UTF-8");
 $database = new Database();
 
